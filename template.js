@@ -1,59 +1,8 @@
 ## name: $name
-## author: thuanowa: https://github.co/thuanowa
+## author: thuanowa
 ## license: unlicense
-## upstream now: https://github.com/thuanowa/rose-pine-surfingkeys/blob/main/dist/$id.conf
-## upstream when it merge in to rose-pine org: https://github.com/rose-pine/surfingkeys/blob/main/dist/$id.conf
+## upstream: https://github.com/rose-pine/surfingkeys/blob/main/dist/$id.conf
 ## blurb: $description
-
-// foreground               $text
-// background               $base
-// selection_foreground     $text
-// selection_background     $highlightMed
-// 
-// cursor                   $highlightHigh
-// cursor_text_color        $text
-// 
-// url_color                $iris
-// 
-// active_tab_foreground    $text
-// active_tab_background    $overlay
-// inactive_tab_foreground  $muted
-// inactive_tab_background  $base
-// 
-// active_border_color      none
-// inactive_border_color    $highlightMed
-// 
-// # black
-// color0   $overlay
-// color8   $muted
-// 
-// # red
-// color1   $love
-// color9   $love
-// 
-// # green
-// color2   $pine
-// color10  $pine
-// 
-// # yellow
-// color3   $gold
-// color11  $gold
-// 
-// # blue
-// color4   $foam
-// color12  $foam
-// 
-// # magenta
-// color5   $iris
-// color13  $iris
-// 
-// # cyan
-// color6   $rose
-// color14  $rose
-// 
-// # white
-// color7   $text
-// color15  $text
 
 $text $base $iris $overlay $muted 
 $highlightLow $highlightMed $highlightHigh
