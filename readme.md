@@ -39,7 +39,7 @@ npx @rose-pine/build@latest
 
 > Be sure to remove this section 😌
 
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ ] Lowercase meta files, eg. `readme.md`
+- [ ] Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
+- [ ] Format repo description as "Soho vibes for App"
+- [ ] Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
