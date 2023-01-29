@@ -14,12 +14,57 @@
 ## Usage
 
 1. Open Surfingkeys options page `;e`
-2. Check Advanced mode 
-3. Under settings file, copy paste `rose-pine.js`
+2. Checked Advanced mode
+3. Copy paste `dist/rose-pine.js` or `loaded settings from` github RAW URL
+
+> eg. https://raw.githubusercontent.com/thuanowa/surfingkeys/main/dist/rose-pine.js
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+### Rosé Pine
+
+![rose pine preview](./img/rose_pine1.png)
+![rose pine preview](./img/rose_pine2.png)
+![rose pine preview](./img/rose_pine3.png)
+![rose pine preview](./img/rose_pine4.png)
+![rose pine preview](./img/rose_pine5.png)
+![rose pine preview](./img/rose_pine6.png)
+![rose pine preview](./img/rose_pine7.png)
+![rose pine preview](./img/rose_pine8.png)
+![rose pine preview](./img/rose_pine9.png)
+![rose pine preview](./img/rose_pine10.png)
+![rose pine preview](./img/rose_pine11.png)
+![rose pine preview](./img/rose_pine12.png)
+
+### Rosé Pine Moon
+
+![rose pine moon preview](./img/rose_pine_moon_1.png)
+![rose pine moon preview](./img/rose_pine_moon_2.png)
+![rose pine moon preview](./img/rose_pine_moon_3.png)
+![rose pine moon preview](./img/rose_pine_moon_4.png)
+![rose pine moon preview](./img/rose_pine_moon_5.png)
+![rose pine moon preview](./img/rose_pine_moon_6.png)
+![rose pine moon preview](./img/rose_pine_moon_7.png)
+![rose pine moon preview](./img/rose_pine_moon_8.png)
+![rose pine moon preview](./img/rose_pine_moon_9.png)
+![rose pine moon preview](./img/rose_pine_moon_10.png)
+![rose pine moon preview](./img/rose_pine_moon_11.png)
+![rose pine moon preview](./img/rose_pine_moon_12.png)
+
+### Rosé Pine Dawn
+
+![rose pine dawn preview](./img/rose_pine_dawn_1.png)
+![rose pine dawn preview](./img/rose_pine_dawn_2.png)
+![rose pine dawn preview](./img/rose_pine_dawn_3.png)
+![rose pine dawn preview](./img/rose_pine_dawn_4.png)
+![rose pine dawn preview](./img/rose_pine_dawn_5.png)
+![rose pine dawn preview](./img/rose_pine_dawn_6.png)
+![rose pine dawn preview](./img/rose_pine_dawn_7.png)
+![rose pine dawn preview](./img/rose_pine_dawn_8.png)
+![rose pine dawn preview](./img/rose_pine_dawn_9.png)
+![rose pine dawn preview](./img/rose_pine_dawn_10.png)
+![rose pine dawn preview](./img/rose_pine_dawn_11.png)
+![rose pine dawn preview](./img/rose_pine_dawn_12.png)
 
 ## Thanks to
 
@@ -36,7 +81,8 @@ cd $(git rev-parse --show-toplevel)
 rm -rf dist/
 npx @rose-pine/build@latest -t template.js
 
-# OR
+# Or
+
 ./build
 ```
 
