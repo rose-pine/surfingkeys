@@ -15,9 +15,9 @@
 
 1. Open Surfingkeys options page `;e`
 2. Checked Advanced mode
-3. Copy paste `dist/rose-pine.js` or `loaded settings from` github RAW URL
+3. Copy paste `dist/rose-pine.js` or `loaded settings from` GitHub raw URL
 
-> eg. https://raw.githubusercontent.com/thuanowa/surfingkeys/main/dist/rose-pine.js
+> Eg. https://raw.githubusercontent.com/thuanowa/surfingkeys/main/dist/rose-pine.js
 
 ## Gallery
 
