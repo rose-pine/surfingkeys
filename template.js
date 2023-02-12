@@ -5,7 +5,7 @@
 // blurb: $description
 
 const hintsCss =
-  "font-size: 13pt; font-family: 'JetBrains Mono NL', 'Cascadia Code', 'Helvetica Neue', Helvetica, Arial, sans-serif; border: 0px; color: $text; background: $base; background-color: $base";
+  "font-size: 13pt; font-family: 'JetBrains Mono NL', 'Cascadia Code', 'Helvetica Neue', Helvetica, Arial, sans-serif; border: 0px; color: $text !important; background: $base; background-color: $base";
 
 api.Hints.style(hintsCss);
 api.Hints.style(hintsCss, "text");
