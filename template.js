@@ -298,8 +298,10 @@ settings.theme = `
   }
   div.sk_tab {
     display: inline-flex;
-    align-items: center;
+    height: 28px;
+    width: 202px;
     justify-content: space-between;
+    align-items: center;
     flex-direction: row-reverse;
     border-radius: 3px;
     padding: 10px 20px;
@@ -309,6 +311,7 @@ settings.theme = `
   }
   div.sk_tab_wrap {
     display: inline-block;
+    flex: 1;
   }
   div.sk_tab_icon {
     display: inline-block;
@@ -349,6 +352,7 @@ settings.theme = `
   }
   #sk_tabs.vertical div.sk_tab_hint {
     position: initial;
+    margin-inline: 0;
   }
   div.tab_rocket {
     display: none;
