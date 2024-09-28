@@ -297,7 +297,12 @@ settings.theme = `
     z-index: 2147483000;
   }
   div.sk_tab {
-    display: inline-block;
+    display: inline-flex;
+    height: 28px;
+    width: 202px;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
     border-radius: 3px;
     padding: 10px 20px;
     margin: 5px;
@@ -306,6 +311,7 @@ settings.theme = `
   }
   div.sk_tab_wrap {
     display: inline-block;
+    flex: 1;
   }
   div.sk_tab_icon {
     display: inline-block;
@@ -343,6 +349,13 @@ settings.theme = `
     border: solid 1px #56526e;
     border-radius: 3px;
     box-shadow: #2a283e;
+  }
+  #sk_tabs.vertical div.sk_tab_hint {
+    position: initial;
+    margin-inline: 0;
+  }
+  div.tab_rocket {
+    display: none;
   }
   #sk_bubble {
     position: absolute;
