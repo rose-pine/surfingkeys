@@ -297,7 +297,10 @@ settings.theme = `
     z-index: 2147483000;
   }
   div.sk_tab {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row-reverse;
     border-radius: 3px;
     padding: 10px 20px;
     margin: 5px;
@@ -343,6 +346,12 @@ settings.theme = `
     border: solid 1px #56526e;
     border-radius: 3px;
     box-shadow: #2a283e;
+  }
+  #sk_tabs.vertical div.sk_tab_hint {
+    position: initial;
+  }
+  div.tab_rocket {
+    display: none;
   }
   #sk_bubble {
     position: absolute;
