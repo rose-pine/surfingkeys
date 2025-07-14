@@ -1,5 +1,0 @@
-#!/usr/bin/env bash
-
-cd $(git rev-parse --show-toplevel)
-rm -rf dist/
-npx @rose-pine/build@latest -t template.js

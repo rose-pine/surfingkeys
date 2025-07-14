@@ -278,8 +278,8 @@ settings.theme = `
     z-index: 2147483000;
     width: 80%;
     border-radius: 8px 8px 8px 8px;
-    border: 2px solid #eb6f92;
-    color: #f6c177;
+    border: 2px solid #ea9a97;
+	color: #f6c177;
     text-align: center;
     background: #232136;
     white-space: nowrap;
