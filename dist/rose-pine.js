@@ -277,9 +277,9 @@ settings.theme = `
     top: -3rem;
     z-index: 2147483000;
     width: 80%;
-    border-radius: 0px 0px 4px 4px;
-    border: 1px solid #524f67;
-    border-top-style: none;
+    border-radius: 8px 8px 8px 8px;
+    border: 2px solid #eb6f92;
+    color: #f6c177;
     text-align: center;
     background: #191724;
     white-space: nowrap;
